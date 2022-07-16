@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = a.harseva@gmail.com
+	name = Adriana Harseva
